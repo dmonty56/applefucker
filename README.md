@@ -1,5 +1,5 @@
 # AppleFucker v1.1
-Have a local music library plagued by apple's bullshit? This script will fuck the apple out of your library.
+Have a local music library plagued by apple? This script will de-apple your library.
 
 # Description
 fixes verious mp4 encoding fuckery that i personally find annoying
