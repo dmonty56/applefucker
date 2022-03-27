@@ -3,12 +3,12 @@ Have a local music library plagued by apple's bullshit? This script will fuck th
 
 # Description
 fixes verious mp4 encoding fuckery that i personally find annoying
-changes [tracknumber]/[totaltracks] to [tracknumber]
-removes discnumber tag for anything labeled 1/1
-changes date format from YYYY-MM-DD hh:mm to YYYY
+1. changes [tracknumber]/[totaltracks] to [tracknumber]
+2. removes discnumber tag for anything labeled 1/1
+3. changes date format from YYYY-MM-DD hh:mm to YYYY
 
 # Important Info
-no there's no executable, run this through your favorite IDE
+no there's no executable, run this through your favorite IDE  
 this took a solid 30 seconds to run through my 3k songs so be patient with it.
 
 this script requires all files to be encoded with ID3. 
