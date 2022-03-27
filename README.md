@@ -1,4 +1,4 @@
-# AppleFucker v1.1
+# Audio De-Appler v1.1
 Have a local music library plagued by apple? This script will de-apple your library.
 
 # Description
