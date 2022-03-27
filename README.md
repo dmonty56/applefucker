@@ -1,7 +1,7 @@
 # AppleFucker v1.1
 Have a local music library plagued by apple's bullshit? This script will fuck the apple out of your library.
 
-# Desc
+# Description
 released 03-27-2022
 written by David Montgomery
 
